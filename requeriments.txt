@@ -1,0 +1,9 @@
+Selenium
+Pandas
+Openpyxl
+pysimplegui
+
+config --global http.sslVerify false
+--trusted-host=pypi.python.org --trusted-host=pypi.org --trusted-host=files.pythonhosted.org 
+
+C:\Users\georgrb\AppData\Local\Programs\Python\Python311\Lib\site-packages\selenium\webdriver\common
